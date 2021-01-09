@@ -1,0 +1,53 @@
+button {
+  margin-left: 40%;
+  margin-bottom: 30px;
+  display: block;
+}
+
+li {
+  margin-left: 40%;
+}
+
+#questions {
+  margin-left: 40%;
+  color: white;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+#timer {
+  float: right;
+  color: white;
+}
+
+body {
+  background-color: blue;
+}
+
+#results {
+  color: white;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+#goBackButton {
+  margin-left: 48%;
+}
+
+#clearButton {
+  margin-left: 48%;
+}
+
+#view-scores {
+  margin-left: 47.5%;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+#start-button {
+  margin-left: 48%;
+  margin-top: 100px;
+}
